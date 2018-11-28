@@ -1,0 +1,2 @@
+add_lunch_combo lineage_star2qlte-eng
+add_lunch_combo lineage_star2qlte-userdebug
